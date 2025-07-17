@@ -9,7 +9,7 @@ Here are some ideas to get you started:-->
 
 🔭 I like to explore new technologies and build data-driven solutions with machine learning.
 
-🎓 I’m a 5th year ICT engineering student at the National Engineering School of Tunis(ENIT).
+🎓 I’m a Data engineer graduated from the National Engineering School of Tunis(ENIT).
 
 🌱 I’m currently learning more about building AI projects and apps on the cloud, particularly with Azure and AWS.
 
